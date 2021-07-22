@@ -19,7 +19,7 @@ echo -e '\e[1;36m installing lxqt and basic apps...\e[1m'
 sleep 1
 pkg update && pkg upgrade
 pkg install -y x11-repo
-pkg install -y xcompmgr audacious qt5-qttools qt5-qtx11extras lxqt lxqt-build-tools otter-browser qgit gtk2 gtk3 python-tkinter tigervnc xorg-xhost openbox geany qt5-qtwebsockets qt5-qtxmlpatterns qt5-qtdeclarative tumbler neovim termux-api termux-desk-qt-icon-theme termux-arc-gtk-theme breeze-cursor-theme
+pkg install -y xcompmgr audacious qt5-qttools qt5-qtx11extras lxqt lxqt-build-tools otter-browser qgit gtk2 gtk3 python-tkinter tigervnc xorg-xhost openbox geany qt5-qtwebsockets qt5-qtxmlpatterns qt5-qtdeclarative tumbler neovim termux-api termux-desk-qt-icon-theme termux-arc-gtk-theme breeze-cursor-theme geany-themes termux-desk-qt-vnc-manager geany-plugins
 
 echo "configurando el escritorio y las variables de entorno..."
 sleep 5
@@ -35,6 +35,13 @@ mkdir Descargas Documentos Publico Videos
 termux-setup-storage
 ln -s $HOME/storage/music $HOME/Musica
 rm ./dots.tar
+echo "eliminando la cache"
+apt clean
+sleep 3
+clear
+
+echo "exito!, use el comando : launch-desktop para iniciarlo, use : stop-desktop para detenerlo y use : vnc-config para editar las variables de vnc"
+
 
 
 
