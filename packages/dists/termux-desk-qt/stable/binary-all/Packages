@@ -1,0 +1,65 @@
+Package: breeze-cursor-theme
+Version: 4:5.20.5-4
+Architecture: all
+Maintainer: @Yisus7u7 <jesus5@gmail.com>
+Installed-Size: 5557
+Depends: gtk3, qt5-qtbase
+Homepage: https://invent.kde.org/?p=breeze.git/breeze
+Description: Default Plasma cursor theme
+ This is the default cursor theme for the KDE Plasma 5 desktop.
+ .
+ This package is part of the Breeze theme module.
+Filename: dists/termux-desk-qt/stable/binary-all/breeze-cursor-theme_5.20.5-4_all.deb
+Size: 268836
+MD5Sum: ef27cfa81eee0bcc2ef647d9d04624e5
+SHA1: 44a7a0476c4795b24c6ac66fd902604529a9201e
+SHA256: 95df2a01230f31a0a3d10fdda8a99349143f7aca294536a547a068727effa4fb
+SHA512: c0229daf711c9d5222a713da7aaa025c2d4a319b7a91c76fda988168c226c1d9e072439879ab9a98f05d1f52a09cd6ba5a9a0af9cfa7627db6e9791442a5a6e7
+
+Package: termux-arc-gtk-theme
+Version: 20210412
+Architecture: all
+Maintainer: @Yisus7u7 <jesuspixel5@gmail.com>
+Installed-Size: 8591 kB
+Depends: gtk2, gtk3
+Suggests: gtk4
+Homepage: https://github.com/jnsh/arc-theme
+Description: Un tema gtk basado en Arc theme para que las apps gtk coincidan con el tema Arc de qt
+Filename: dists/termux-desk-qt/stable/binary-all/termux-arc-gtk-theme_20210412_all.deb
+Size: 254748
+MD5Sum: c2a6e7c55d7a60a035ec044dcc6b4148
+SHA1: c48111ef5b58b34f1f50ed15da7ee552c342150c
+SHA256: 0ada19f7e34a99859b301cbfd8c0bf4375c34b17d7d886b8b10b4d7464b3826b
+SHA512: 05b318ae7e3e69f2b773837495abccbea161e97763a0a1b369b0e38a1195144e8ca52b07a1ef764435077bf631202d1f9c6a7983a0dfbb90d5830ac899a2f5f6
+
+Package: termux-desk-qt-icon-theme
+Architecture: all
+Installed-Size: 45090
+Maintainer: @Yisus7u7 <jesuspixel5@gmail.com>
+Version: 1.0.6
+Homepage: https://github.com/Yisus7u7/termux-desk-qt
+Depends: gtk3, qt5-qtbase, hicolor-icon-theme
+Suggests: papirus-icon-theme
+Description: Tema de iconos basado en breeze (kde) para el entorno preconfigurado (termux-desk-qt)
+Filename: dists/termux-desk-qt/stable/binary-all/termux-desk-icon-theme_1.0.6_all.deb
+Size: 2415000
+MD5Sum: ec9855d19cb8fe6b60f6af3712e3d8af
+SHA1: fe803935d993a121c081917500ca564cd777dcd7
+SHA256: 84cbad18ab32960180812c073c0d7199eb5e775950ecc7a5486a1335e2bc7189
+SHA512: 72a60f66023ac7ad2e3ca45048946e84ebc4ee6d4d812f1b9499cbf5d75b93c7a328629f176893e00cb4133c3632c083b122d03234e2675f7354371be558746f
+
+Package: termux-desk-qt-vnc-manager
+Architecture: all
+Installed-Size: 612
+Maintainer: @Yisus7u7 <jesuspixel5@gmail.com>
+Version: 1.0.4
+Homepage: https://github.com/Yisus7u7/termux-desk-qt
+Depends: nano
+Description: Archivos de inicio rapido del servicio vnc de termux-desk-qt
+Filename: dists/termux-desk-qt/stable/binary-all/termux-desk-qt-vnc-manager_1.0.4_all.deb
+Size: 1120
+MD5Sum: 5224e759239cc69e9ef5e5822f45a3b9
+SHA1: a44db57fdca5cb7d25a5c96d603dc7b3bd398866
+SHA256: 9454edb639816ee04d54268991c0f6d0bfa9441d46c3bad6f4d432616615d0f4
+SHA512: 27e705b3aa633d40e950e0f6acd2c76929b4acf6c06d1587ac7bcc889887ecdda5daca2f2eef64f39eeb8576d09117f3d76f4d903edf19d6dfd9ae933565ac02
+

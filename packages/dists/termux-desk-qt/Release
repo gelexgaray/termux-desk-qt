@@ -1,0 +1,26 @@
+Codename: temux-desk-qt
+Version: 1
+Architectures: all
+Description: termux-desk-qt repository
+Suite: termux-desk-qt
+Date: Thu, 22 Jul 2021 16:29:36 UTC
+MD5Sum:
+ eb0ba2d3af7b5929dedc1a32121a46cc 2916 stable/binary-all/Packages
+ 2d59268d5b0cb2a24f0c9da7f8c17b63 1400 stable/binary-all/Packages.xz
+ 8adca3789b57066e22c245db141b98d4 1468877 stable/Contents-all
+ dca0d57e3818baf3836b4a7a90eda218 51044 stable/Contents-all.xz
+SHA1:
+ 683829b2cf5e02836a9d5aa9b2ee4d1b98865c9c 2916 stable/binary-all/Packages
+ 80d46bcbbfe64b4d59263d21166913d980d594bf 1400 stable/binary-all/Packages.xz
+ 0cc3781e14c300ba0c961de7b10bd482974e31a0 1468877 stable/Contents-all
+ a07edf2a439c0cb05055e6d0b8c20454f0496589 51044 stable/Contents-all.xz
+SHA256:
+ f7edbce7d72b83dea5429d91cdc055b0ff3139714fdd5998ee5b679960308d64 2916 stable/binary-all/Packages
+ 795b02adc95cd4e758ae2c25689a28f9c7aa27ce1d8eee35f79ecc1662a24cf1 1400 stable/binary-all/Packages.xz
+ f9c16a0ac7cc5b698efcba8969489075dae6228c868e5f5b4f3b4cb641565ad2 1468877 stable/Contents-all
+ 1498401f1532c003d098f9f6479ecaff0be1800829040952b5c04e9098e3e9cb 51044 stable/Contents-all.xz
+SHA512:
+ 5a3f170f394c5bf22e472cb178886cdc8edbd000f4dd65030d1717a765a1d8d4835803d9e4b382c1693cd5949330885d6feb552acfc21ce65ddbdd70b6b3e467 2916 stable/binary-all/Packages
+ a0b84b8635da369b933c497520e20381aa79dcd2a1b1ae94caca3d22e0d23fc7421b17b2f16b025cd03545be6118289a4ab618ec2ec120fd338b41fa7a8b4a50 1400 stable/binary-all/Packages.xz
+ 6d1e61470afe8425440e62dda5b86f66eac42d1b7f0b37d4d7092a83615dc479c65d32c37c1e651a988f2803f43d48cd4a59c0f0eb78ecd1c2968c683e2c8f73 1468877 stable/Contents-all
+ 174321fb067e582242425263e9b29f025fc9a7b2a1305b2f0eb08fa72af6fe6596ae7a07f4207c4393a584125f2d35486f7b16fe248df20d7c690f6d66cdf50e 51044 stable/Contents-all.xz
